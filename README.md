@@ -1,2 +1,2 @@
-# Machine-Learning---Andrew-Ng-Coursera-
+# Machine-Learning-Andrew-Ng-Coursera-
 Foundations of ML 
